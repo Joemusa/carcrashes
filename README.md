@@ -8,7 +8,7 @@
 
 ### Model Diagram
 
-![Employee Attrition_Model](https://github.com/Joemusa/employee_attrition/assets/94066555/7448024a-1b65-42bc-926e-fc0737bf7b23)
+![Carcrashes Model](https://github.com/Joemusa/carcrashes/assets/94066555/411dc223-1a8c-490c-a0b8-b4b0e752db71)
 
 # Dataset Overview and Data Processing
 The data set contains employee related data such as age, highest level of education, job roles, departments and salaries. Processing of the data involved aggregating data to derive metrics like attrition rate, average age, average increase and average years with the company. Other calc created was the age bins.
