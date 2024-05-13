@@ -11,10 +11,16 @@
 ![Carcrashes Model](https://github.com/Joemusa/carcrashes/assets/94066555/411dc223-1a8c-490c-a0b8-b4b0e752db71)
 
 # Dataset Overview and Data Processing
-The data set contains employee related data such as age, highest level of education, job roles, departments and salaries. Processing of the data involved aggregating data to derive metrics like attrition rate, average age, average increase and average years with the company. Other calc created was the age bins.
+The data set contains vehicle accident data such as accident date, accident severity, vehicle type, weather constiions, road type and road surface condition. DAX was used to aggregate data to derive metrics such as year on year accident rate.
 
 # Insights and Findings
-The Dashboard reveals the attrition rate of 17%, which means that out of a 100 employees 17 employess are leaving the company. The biggest number of employees leaving the company are  Developers aged 26 - 35 years and that received an increase of less than 15%. 
+The Dashboard reveals that the number of accident decreased by -11.7% translating into a decreased of 144.9k. The biggest number of accident happens during fine no wind days on single carriage road. Indicating that the motorist become reckless when the weather condition are perfect for driving.
+
+# Recommendations
+*Increase visibility of possible on the Single Carriage roads
+*Identify and install speed cameras at hotspots
+*Increase fine to deter motorist from being reckless
+*Run road campaigns
 
 
 
