@@ -1,6 +1,6 @@
 # Project Report 
 - **Title:** Car Crashes
-- **Description:** This reaveals the reasons of car cruashes and the extent at which these crashes are fatal.
+- **Description:** This reveals the causes of vehicle accidents as well as the severity of the accidents.
 
 ### Dasboard
 
@@ -11,17 +11,16 @@
 ![Carcrashes Model](https://github.com/Joemusa/carcrashes/assets/94066555/411dc223-1a8c-490c-a0b8-b4b0e752db71)
 
 # Dataset Overview and Data Processing
-The data set contains vehicle accident data such as accident date, accident severity, vehicle type, weather constiions, road type and road surface condition. DAX was used to aggregate data to derive metrics such as year on year accident rate.
+The data set includes information about car accidents, including the date, severity, kind of vehicle, weather, type of road, and condition of the road's surface. Data was aggregated using DAX to produce measures like the annual accident rate.
 
 # Insights and Findings
-The Dashboard reveals that the number of accident decreased by -11.7% translating into a decreased of 144.9k. The biggest number of accident happens during fine no wind days on single carriage road. Indicating that the motorist become reckless when the weather condition are perfect for driving.
+According to the dashboard, there were 144.9k fewer accidents, or a decline of -11.7%. On single-carrier roads, the highest accident rate occurs on days with fine weather and no wind. implying that when the weather is ideal for driving, drivers become careless.
 
 # Recommendations
-*Increase visibility of possible on the Single Carriage roads
-*Identify and install speed cameras at hotspots
-*Increase fine to deter motorist from being reckless
-*Run road campaigns
+* Improve possible visibility on single-carrier routes
+* Locate hotspots and place speed cameras there.
+* Raise the fine to discourage careless driving
+* Conduct campaigns on the roads
 
 
 
-![CarCrashes Dashboard](https://github.com/Joemusa/carcrashes/assets/94066555/168f0587-22a4-4750-8a2e-2ed63af502bf)
